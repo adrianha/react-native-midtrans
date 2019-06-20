@@ -1,0 +1,40 @@
+{
+  "name": "@adrianha/react-native-midtrans",
+  "title": "Midtrans SDK for React Native",
+  "version": "1.0.0",
+  "description": "Unofficial Midtrans SDK for React Native",
+  "main": "index.js",
+  "files": [
+    "android",
+    "ios",
+    "src",
+    "ReactNativeMidtrans.podspec"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianha/react-native-midtrans.git",
+    "baseUrl": "https://github.com/adrianha/react-native-midtrans"
+  },
+  "keywords": [
+    "react-native",
+    "midtrans",
+    "veritrans"
+  ],
+  "author": {
+    "name": "Adrian hartanto",
+    "email": "s.adrianh@gmail.com"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "16.8.3",
+    "react-native": "^0.59.0"
+  },
+  "devDependencies": {
+    "react": "16.8.3",
+    "react-native": "^0.59.0"
+  }
+}

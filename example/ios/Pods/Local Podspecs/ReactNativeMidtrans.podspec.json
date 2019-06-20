@@ -1,0 +1,30 @@
+{
+  "name": "ReactNativeMidtrans",
+  "version": "1.0.0",
+  "summary": "Unofficial Midtrans SDK for React Native",
+  "homepage": "https://github.com/adrianha/react-native-midtrans",
+  "license": "MIT",
+  "authors": {
+    "Adrian Hartanto": "s.adrianh@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/adrianha/react-native-midtrans.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "ios/**/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ],
+    "MidtransCoreKit": [
+
+    ],
+    "MidtransKit": [
+
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+../../../MidtransCoreKit/MidtransCoreKit/MidtransCoreKit/MidtransObtainedPromo.h

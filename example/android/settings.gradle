@@ -1,0 +1,5 @@
+rootProject.name = 'example'
+include ':@adrianha_react-native-midtrans'
+project(':@adrianha_react-native-midtrans').projectDir = new File(rootProject.projectDir, '../../android')
+
+include ':app'
