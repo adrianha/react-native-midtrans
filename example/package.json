@@ -10,7 +10,7 @@
   "dependencies": {
     "@adrianha/react-native-midtrans": "file:..",
     "react": "16.8.3",
-    "react-native": "0.59.9"
+    "react-native": "0.62.3"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",
